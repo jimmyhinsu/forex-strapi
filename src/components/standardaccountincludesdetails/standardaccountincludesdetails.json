@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_standardaccountincludesdetails_standardaccountincludesdetails",
+  "info": {
+    "displayName": "standardaccountincludesdetails"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

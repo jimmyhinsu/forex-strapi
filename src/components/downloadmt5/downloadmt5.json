@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_downloadmt5_downloadmt5s",
+  "info": {
+    "displayName": "downloadmt5"
+  },
+  "options": {},
+  "attributes": {
+    "meta5": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "metatrader5": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

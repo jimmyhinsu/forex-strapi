@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_features_features",
+  "info": {
+    "displayName": "features",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "Featuresdetails": {
+      "type": "component",
+      "repeatable": true,
+      "component": "featuresdetails.featuresdetails"
+    }
+  }
+}

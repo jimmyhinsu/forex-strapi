@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_choosewhere_choosewheres",
+  "info": {
+    "displayName": "Choosewhere",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "gotonext": {
+      "displayName": "choosewheredetails",
+      "type": "component",
+      "repeatable": true,
+      "component": "choosewheredetails.choosewheredetails"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "kind": "singleType",
+  "collectionName": "mt5platforms",
+  "info": {
+    "singularName": "mt5platform",
+    "pluralName": "mt5platforms",
+    "displayName": "mt5platform",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "mt5": {
+      "type": "string"
+    },
+    "mt5tradingplatform": {
+      "type": "component",
+      "repeatable": false,
+      "component": "mt5tradingplatform.mt5tradingplatform"
+    },
+    "downloadmt5": {
+      "type": "component",
+      "repeatable": false,
+      "component": "downloadmt5.downloadmt5"
+    },
+    "whatismt5": {
+      "type": "component",
+      "repeatable": false,
+      "component": "whatismt5.whatismt5"
+    },
+    "accounts": {
+      "type": "component",
+      "repeatable": false,
+      "component": "accounts.accounts"
+    },
+    "Choosewhere": {
+      "type": "component",
+      "repeatable": false,
+      "component": "choosewhere.choosewhere"
+    }
+  }
+}

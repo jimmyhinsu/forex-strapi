@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_committed_committeds",
+  "info": {
+    "displayName": "committed",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "committeddetails": {
+      "type": "component",
+      "repeatable": true,
+      "component": "committeddetails.committeddetails"
+    }
+  }
+}

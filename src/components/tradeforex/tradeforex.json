@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_tradeforex_tradeforexes",
+  "info": {
+    "displayName": "tradeforex"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "tradeforeximg": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

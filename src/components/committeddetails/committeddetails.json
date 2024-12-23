@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_committeddetails_committeddetails",
+  "info": {
+    "displayName": "committeddetails"
+  },
+  "options": {},
+  "attributes": {
+    "committedimgs": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

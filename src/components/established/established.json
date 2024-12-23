@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_established_establisheds",
+  "info": {
+    "displayName": "established",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "establisheddetails": {
+      "type": "component",
+      "repeatable": true,
+      "component": "establisheddetails.establisheddetails"
+    }
+  }
+}

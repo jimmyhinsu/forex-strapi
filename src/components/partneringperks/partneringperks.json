@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_partneringperks_partneringperks",
+  "info": {
+    "displayName": "partneringperks",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "partneringperksdetails": {
+      "type": "component",
+      "repeatable": true,
+      "component": "partneringperksdetails.partneringperksdetails"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "aml_policies",
+  "info": {
+    "singularName": "aml-policy",
+    "pluralName": "aml-policies",
+    "displayName": "AMLPolicy",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "amlpolicy": {
+      "type": "string"
+    },
+    "AMLPolicy": {
+      "type": "richtext"
+    }
+  }
+}

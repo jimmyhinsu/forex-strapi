@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_thefactordetails_thefactordetails",
+  "info": {
+    "displayName": "thefactordetails"
+  },
+  "options": {},
+  "attributes": {
+    "label1": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "label2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

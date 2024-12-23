@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "risk_disclosures",
+  "info": {
+    "singularName": "risk-disclosure",
+    "pluralName": "risk-disclosures",
+    "displayName": "Risk Disclosure"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "riskdisclosure": {
+      "type": "string"
+    },
+    "riskdisclosur": {
+      "type": "richtext"
+    }
+  }
+}

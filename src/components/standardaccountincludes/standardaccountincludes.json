@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_standardaccountincludes_standardaccountincludes",
+  "info": {
+    "displayName": "standardaccountincludes",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "standardaccountincludesdetails": {
+      "type": "component",
+      "repeatable": true,
+      "component": "whatsetsusapartdetails.whatsetsusapartdetails"
+    }
+  }
+}

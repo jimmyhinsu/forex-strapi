@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_ourproductdetail_ourproductdetails",
+  "info": {
+    "displayName": "ourproductdetail",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "tag": {
+      "type": "customField",
+      "customField": "plugin::tagsinput.tags"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "foreximg": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "priceandtitle": {
+      "type": "component",
+      "repeatable": true,
+      "component": "priceandtitle.priceandtitle"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "kind": "singleType",
+  "collectionName": "accounts",
+  "info": {
+    "singularName": "account",
+    "pluralName": "accounts",
+    "displayName": "standard account",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "account": {
+      "type": "string"
+    },
+    "standardaccountincludes": {
+      "type": "component",
+      "repeatable": false,
+      "component": "standardaccountincludes.standardaccountincludes"
+    },
+    "Choosewhere": {
+      "type": "component",
+      "repeatable": false,
+      "component": "choosewhere.choosewhere"
+    }
+  }
+}

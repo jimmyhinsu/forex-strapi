@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_benefitsofbecomingdetails_benefitsofbecomingdetails",
+  "info": {
+    "displayName": "benefitsofbecomingdetails"
+  },
+  "options": {},
+  "attributes": {
+    "benefitsimgs": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

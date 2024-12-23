@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_partneringperksdetails_partneringperksdetails",
+  "info": {
+    "displayName": "partneringperksdetails",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "imags": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

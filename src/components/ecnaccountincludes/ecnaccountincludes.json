@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_ecnaccountincludes_ecnaccountincludes",
+  "info": {
+    "displayName": "ecnaccountinclude",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

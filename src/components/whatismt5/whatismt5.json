@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_whatismt5_whatismt5s",
+  "info": {
+    "displayName": "whatismt5"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description1": {
+      "type": "string"
+    },
+    "description2": {
+      "type": "string"
+    },
+    "whatismt5img": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

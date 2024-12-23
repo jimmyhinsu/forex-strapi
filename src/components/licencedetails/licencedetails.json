@@ -1,0 +1,37 @@
+{
+  "collectionName": "components_licencedetails_licencedetails",
+  "info": {
+    "displayName": "licencedetails",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "licenceimgs": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "description": {
+      "type": "string"
+    },
+    "button": {
+      "type": "string"
+    },
+    "pdffile": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_teamupwithforex_teamupwithforexes",
+  "info": {
+    "displayName": "teamupwithforex"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description1": {
+      "type": "string"
+    },
+    "description2": {
+      "type": "string"
+    }
+  }
+}

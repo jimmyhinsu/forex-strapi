@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_whatsetsusapartdetails_whatsetsusapartdetails",
+  "info": {
+    "displayName": "whatsetsusapartdetails",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

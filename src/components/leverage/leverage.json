@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_leverage_leverages",
+  "info": {
+    "displayName": "leverage"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

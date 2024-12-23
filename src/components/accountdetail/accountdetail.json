@@ -1,0 +1,36 @@
+{
+  "collectionName": "components_accountdetail_accountdetails",
+  "info": {
+    "displayName": "accountdetail",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Standard": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "cardlable1": {
+      "type": "string"
+    },
+    "cardlable2": {
+      "type": "string"
+    },
+    "cardlable3": {
+      "type": "string"
+    }
+  }
+}

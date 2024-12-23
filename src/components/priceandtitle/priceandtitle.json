@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_priceandtitle_priceandtitles",
+  "info": {
+    "displayName": "priceandtitle"
+  },
+  "options": {},
+  "attributes": {
+    "price": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

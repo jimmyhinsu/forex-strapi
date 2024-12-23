@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_whyforex_whyforexes",
+  "info": {
+    "displayName": "whyforex"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "whyforeximg": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

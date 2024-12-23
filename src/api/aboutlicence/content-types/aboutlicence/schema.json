@@ -1,0 +1,29 @@
+{
+  "kind": "singleType",
+  "collectionName": "aboutlicences",
+  "info": {
+    "singularName": "aboutlicence",
+    "pluralName": "aboutlicences",
+    "displayName": "aboutlicence",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "aboutdetails": {
+      "type": "component",
+      "repeatable": false,
+      "component": "licencedetails.licencedetails"
+    },
+    "Choosewhere": {
+      "type": "component",
+      "repeatable": false,
+      "component": "choosewhere.choosewhere"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_proaccountincludedetail_proaccountincludedetails",
+  "info": {
+    "displayName": "proaccountincludedetail"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

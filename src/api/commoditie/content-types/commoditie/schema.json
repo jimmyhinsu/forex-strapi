@@ -1,0 +1,38 @@
+{
+  "kind": "singleType",
+  "collectionName": "commodities",
+  "info": {
+    "singularName": "commoditie",
+    "pluralName": "commodities",
+    "displayName": "commoditie",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Commoditie": {
+      "type": "string"
+    },
+    "thefactor": {
+      "type": "component",
+      "repeatable": false,
+      "component": "thefactor.thefactor"
+    },
+    "Choosewhere": {
+      "type": "component",
+      "repeatable": false,
+      "component": "choosewhere.choosewhere"
+    },
+    "tag": {
+      "type": "customField",
+      "customField": "plugin::tagsinput.tags"
+    },
+    "ourproductdetail": {
+      "type": "component",
+      "repeatable": true,
+      "component": "ourproductdetail.ourproductdetail"
+    }
+  }
+}

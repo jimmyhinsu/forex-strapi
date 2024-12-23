@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "deposit_and_withdrawal_policies",
+  "info": {
+    "singularName": "deposit-and-withdrawal-policy",
+    "pluralName": "deposit-and-withdrawal-policies",
+    "displayName": "Deposit & Withdrawal Policy"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "depositandwithdrawalpolicy": {
+      "type": "string"
+    },
+    "depositandwithdrawal": {
+      "type": "richtext"
+    }
+  }
+}

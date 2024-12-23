@@ -1,0 +1,44 @@
+{
+  "kind": "singleType",
+  "collectionName": "partnerships",
+  "info": {
+    "singularName": "partnership",
+    "pluralName": "partnerships",
+    "displayName": "introducingbroker",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "teamupwithforex": {
+      "type": "component",
+      "repeatable": false,
+      "component": "teamupwithforex.teamupwithforex"
+    },
+    "partneringperks": {
+      "type": "component",
+      "repeatable": false,
+      "component": "partneringperks.partneringperks"
+    },
+    "whatsetsusapart": {
+      "type": "component",
+      "repeatable": false,
+      "component": "whatsetsusapart.whatsetsusapart"
+    },
+    "benefitsofbecoming": {
+      "type": "component",
+      "repeatable": false,
+      "component": "benefitsofbecoming.benefitsofbecoming"
+    },
+    "becomeanforex": {
+      "type": "component",
+      "repeatable": false,
+      "component": "becomeanforex.becomeanforex"
+    }
+  }
+}

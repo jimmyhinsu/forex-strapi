@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "restricted_countries",
+  "info": {
+    "singularName": "restricted-countrie",
+    "pluralName": "restricted-countries",
+    "displayName": "Restricted Countrie"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "restrictedcountries": {
+      "type": "string"
+    },
+    "restrictedcountrie": {
+      "type": "richtext"
+    }
+  }
+}

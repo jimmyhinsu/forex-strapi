@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_benefitsofbecoming_benefitsofbecomings",
+  "info": {
+    "displayName": "benefitsofbecoming",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "benefitsofbecomingdetails": {
+      "type": "component",
+      "repeatable": true,
+      "component": "benefitsofbecomingdetails.benefitsofbecomingdetails"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_becomeanforex_becomeanforexes",
+  "info": {
+    "displayName": "becomeanforex",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "becomeanforexdetails": {
+      "type": "component",
+      "repeatable": true,
+      "component": "becomeanforexdetails.becomeanforexdetails"
+    }
+  }
+}

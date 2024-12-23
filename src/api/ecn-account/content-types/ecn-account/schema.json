@@ -1,0 +1,29 @@
+{
+  "kind": "singleType",
+  "collectionName": "ecn_accounts",
+  "info": {
+    "singularName": "ecn-account",
+    "pluralName": "ecn-accounts",
+    "displayName": "ecn account",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "ecnaccountinclude": {
+      "type": "component",
+      "repeatable": false,
+      "component": "ecnaccountinclude.ecnaccountinclude"
+    },
+    "cho": {
+      "type": "component",
+      "repeatable": false,
+      "component": "choosewhere.choosewhere"
+    }
+  }
+}

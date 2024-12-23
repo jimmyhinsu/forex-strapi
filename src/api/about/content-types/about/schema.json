@@ -1,0 +1,41 @@
+{
+  "kind": "singleType",
+  "collectionName": "abouts",
+  "info": {
+    "singularName": "about",
+    "pluralName": "abouts",
+    "displayName": "Aboutwhyforex voyager",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "whhyforex": {
+      "type": "component",
+      "repeatable": false,
+      "component": "whyforex.whyforex"
+    },
+    "Features": {
+      "type": "component",
+      "repeatable": false,
+      "component": "features.features"
+    },
+    "established": {
+      "type": "component",
+      "repeatable": false,
+      "component": "established.established"
+    },
+    "committed": {
+      "type": "component",
+      "repeatable": false,
+      "component": "committed.committed"
+    },
+    "Choosewhere": {
+      "type": "component",
+      "repeatable": false,
+      "component": "choosewhere.choosewhere"
+    }
+  }
+}

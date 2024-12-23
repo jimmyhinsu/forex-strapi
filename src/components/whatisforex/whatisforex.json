@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_whatisforex_whatisforexes",
+  "info": {
+    "displayName": "whatisforex",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description1": {
+      "type": "string"
+    },
+    "description2": {
+      "type": "string"
+    },
+    "description3": {
+      "type": "string"
+    },
+    "whatisforeximg": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

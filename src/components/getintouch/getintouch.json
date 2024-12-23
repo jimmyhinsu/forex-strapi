@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_getintouch_getintouches",
+  "info": {
+    "displayName": "getintouch"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

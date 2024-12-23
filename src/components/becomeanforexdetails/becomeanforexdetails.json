@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_becomeanforexdetails_becomeanforexdetails",
+  "info": {
+    "displayName": "becomeanforexdetails"
+  },
+  "options": {},
+  "attributes": {
+    "number": {
+      "type": "integer"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

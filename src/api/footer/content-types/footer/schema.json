@@ -1,0 +1,36 @@
+{
+  "kind": "singleType",
+  "collectionName": "footers",
+  "info": {
+    "singularName": "footer",
+    "pluralName": "footers",
+    "displayName": "footer",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "about": {
+      "type": "customField",
+      "customField": "plugin::tagsinput.tags"
+    },
+    "products": {
+      "type": "customField",
+      "customField": "plugin::tagsinput.tags"
+    },
+    "platforms": {
+      "type": "customField",
+      "customField": "plugin::tagsinput.tags"
+    },
+    "accounts": {
+      "type": "customField",
+      "customField": "plugin::tagsinput.tags"
+    },
+    "partnership": {
+      "type": "customField",
+      "customField": "plugin::tagsinput.tags"
+    }
+  }
+}

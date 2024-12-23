@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_forexthreebox_forexthreeboxes",
+  "info": {
+    "displayName": "forexthreebox"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_contactimg_contactimgs",
+  "info": {
+    "displayName": "contactimg"
+  },
+  "options": {},
+  "attributes": {
+    "contactimg": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "description": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

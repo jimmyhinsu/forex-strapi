@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_mt5tradingplatform_mt5tradingplatforms",
+  "info": {
+    "displayName": "mt5tradingplatform"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description1": {
+      "type": "string"
+    },
+    "description2": {
+      "type": "string"
+    },
+    "mt5img": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

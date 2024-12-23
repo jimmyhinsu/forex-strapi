@@ -1,0 +1,38 @@
+{
+  "kind": "singleType",
+  "collectionName": "digitalassets",
+  "info": {
+    "singularName": "digitalasset",
+    "pluralName": "digitalassets",
+    "displayName": "digitalasset",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "digitalasset": {
+      "type": "string"
+    },
+    "thefactor": {
+      "type": "component",
+      "repeatable": false,
+      "component": "thefactor.thefactor"
+    },
+    "Choosewhere": {
+      "type": "component",
+      "repeatable": false,
+      "component": "choosewhere.choosewhere"
+    },
+    "tag": {
+      "type": "customField",
+      "customField": "plugin::tagsinput.tags"
+    },
+    "ourproductdetail": {
+      "type": "component",
+      "repeatable": true,
+      "component": "ourproductdetail.ourproductdetail"
+    }
+  }
+}

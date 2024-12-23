@@ -1,0 +1,53 @@
+{
+  "kind": "singleType",
+  "collectionName": "forexes",
+  "info": {
+    "singularName": "forex",
+    "pluralName": "forexes",
+    "displayName": "forex",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "forex": {
+      "type": "string"
+    },
+    "thefactor": {
+      "type": "component",
+      "repeatable": false,
+      "component": "thefactor.thefactor"
+    },
+    "whatisforex": {
+      "type": "component",
+      "repeatable": false,
+      "component": "whatisforex.whatisforex"
+    },
+    "tradeforex": {
+      "type": "component",
+      "repeatable": false,
+      "component": "tradeforex.tradeforex"
+    },
+    "forexthreebox": {
+      "type": "component",
+      "repeatable": true,
+      "component": "forexthreebox.forexthreebox"
+    },
+    "Choosewhere": {
+      "type": "component",
+      "repeatable": false,
+      "component": "choosewhere.choosewhere"
+    },
+    "tag": {
+      "type": "customField",
+      "customField": "plugin::tagsinput.tags"
+    },
+    "ourproductdetail": {
+      "type": "component",
+      "repeatable": true,
+      "component": "ourproductdetail.ourproductdetail"
+    }
+  }
+}
